@@ -13,10 +13,19 @@ Includes:
 ### Instructions
 ---
 Install vendor scripts / deps
-	bower install
+
+```
+bower install
+```
 
 Install the juicy node bits
-	npm install
+
+```
+npm install
+```
 
 Run gulp default task to start build
-	gulp
+
+```
+gulp
+```
